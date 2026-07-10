@@ -62,9 +62,9 @@ modules:
         path: icon-128.png
       - type: extra-data
         filename: gcap.zip
-        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/gcap/GCAP2026v1.0.zip
-        sha256: 1ed9c3ca0707099661a8ca99a9c8046e0ed02b3aee527e18d0f2ab1dc0e09117
-        size: 24881277
+        url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/gcap/GCAP2026v1.2.zip
+        sha256: 5adac86250d26720244452fc00f62d6e660a4552b0f2357a769fd646d8e5dbfc
+        size: 26919921
         x-checker-data:
           type: html
           url: https://downloadirpf.receita.fazenda.gov.br/irpf/2026/gcap/update/latest.xml
